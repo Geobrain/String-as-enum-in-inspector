@@ -3,7 +3,7 @@ advantage over enum is that a partial class is used for string keys.
 new string keys are added to it as needed
 
 ## How to use
-Add new key 
+Add new string field 
 ```csharp
 public partial class Keys
 {
