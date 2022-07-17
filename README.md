@@ -1,0 +1,1 @@
+# String-as-enum-in-inspector
