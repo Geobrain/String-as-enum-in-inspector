@@ -1,3 +1,6 @@
 # String-as-enum-in-inspector
 
-https://i.gyazo.com/39e5aafa998bae1509811ededed9c1b2.mp4
+
+
+https://user-images.githubusercontent.com/43826167/179422943-84213e51-a3a1-4e91-9412-ee8d8bca9691.mp4
+
